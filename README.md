@@ -14,7 +14,7 @@ First clone the repository:
 git clone https://github.com/symplexia/Plexswap-SDK.git
 ```
 
-Move into the pancakeswap-sdk working directory
+Move into the plexswap-sdk working directory
 
 ```sh
 cd plexswap-sdk/

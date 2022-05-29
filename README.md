@@ -1,5 +1,7 @@
 # ![image](https://user-images.githubusercontent.com/106164850/170870047-1ca9f4ef-7c9a-43d0-a79d-da1b748ed839.png) Plexswap SDK
 
+[![Version](https://img.shields.io/npm/v/@plexswap/uikit)](https://www.npmjs.com/package/@plexswap/sdk) [![Size](https://img.shields.io/bundlephobia/min/@plexswap/uikit)](https://www.npmjs.com/package/@plexswap/sdk)
+
 Forked from the [Uniswap SDK](https://github.com/Uniswap/uniswap-v2-sdk/commit/a88048e9c4198a5bdaea00883ca00c8c8e582605).
 
 You can refer to the Uniswap SDK documentation [uniswap.org](https://docs.uniswap.org/sdk/2.0.0/).

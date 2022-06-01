@@ -31,7 +31,7 @@ npm manifest:
     "name": "@plexswap/sdk",
     "license": "MIT",
     "version": "1.0.1",
-    "description": "🛠 An SDK for building applications on top of Plexswap. (Based on PancakeSwap)",
+    "description": "🛠 An SDK for building applications on top of Plexswap. (Based on Plexswap)",
     "main": "dist/index.js",
     "typings": "dist/index.d.ts",
     "files": [

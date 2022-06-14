@@ -18,6 +18,7 @@
   ],
   "module": "dist/sdk.esm.js",
   "scripts": {
+    "publish": "npm publish --access public",
     "lint": "tsdx lint src test",
     "build": "tsdx build",
     "start": "tsdx watch",
